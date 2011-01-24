@@ -1,0 +1,118 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: me@donaldsayers.com
+Received: by 10.223.22.151 with SMTP id n23cs58723fab;
+        Tue, 21 Dec 2010 16:12:07 -0800 (PST)
+Received: by 10.100.252.12 with SMTP id z12mr3819968anh.62.98;
+        Tue, 21 Dec 2010 16:12:06 -0800 (PST)
+Return-Path: <Staples_Services@staples.com>
+Received: from mail3.iship.com (mail3.iship.com [64.74.4.33])
+        by mx.google.com with ESMTPS id c26si19526840ana.188.2010.12.21.16.12.05
+        (version=TLSv1/SSLv3 cipher=RC4-MD5);
+        Tue, 21 Dec 2010 16:12:06 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning Staples_Services@staples.com does not designate 64.74.4.33 as permitted sender) client-ip=64.74.4.33;
+Authentication-Results: mx.google.com; spf=softfail (google.com: domain of transitioning Staples_Services@staples.com does not designate 64.74.4.33 as permitted sender) smtp.mail=Staples_Services@staples.com
+Received: from outside249.iship.com (64.74.6.249) by mail3.iship.com
+ (172.16.200.82) with Microsoft SMTP Server id 8.2.255.0; Tue, 21 Dec 2010
+ 16:12:04 -0800
+Received: from outside249.iship.com ([10.203.3.15]) by outside249.iship.com
+ with Microsoft SMTPSVC(5.0.2195.7381);	 Tue, 21 Dec 2010 16:12:04 -0800
+Received: from mail pickup service by outside249.iship.com with Microsoft
+ SMTPSVC;	 Tue, 21 Dec 2010 16:12:04 -0800
+thread-index: AcuhbNysyhgLVuGqRo2CZOi2LGsVOw==
+Thread-Topic: Shipment Notification 
+From: <Staples_Services@staples.com>
+To: <me@donaldsayers.com>
+Subject: Shipment Notification 
+Date: Tue, 21 Dec 2010 16:12:04 -0800
+Message-ID: <A72448A139F34535AD142401D9AAB0D8@iship.prod>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.4325
+X-OriginalArrivalTime: 22 Dec 2010 00:12:04.0304 (UTC) FILETIME=[DCCB4500:01CBA16C]
+Return-Path: Staples_Services@staples.com
+
+
+A carrier shipping label has been generated for the shipment to
+Caroline Sayers and is awaiting carrier pickup.
+
+It will be picked up by UPS on Wednesday, December 22, 2010.
+
+==========================================================
+SHIPMENT INFORMATION
+==========================================================
+SENDER
+    Donald
+    Sayers
+    US, TN 
+
+RECIPIENT
+    Caroline Sayers
+    --
+    CARY, NC 27519-6860 US
+
+SHIPPED THROUGH
+    Staples #0914
+    (423) 510-9654
+
+MESSAGE FROM SENDER
+    0
+
+SHIPMENT INFORMATION
+    Other Packaging:  12.00" x 10.00" x 5.00" inches      3.00 lbs. (billed weight)
+
+
+CARRIER & SERVICE
+    UPS Ground
+
+SHIPMENT TRACKING & REFERENCE
+    Tracking No.:  1Z5AR5420307750990    
+    Shipment ID:   MAY7FSC9K5GXP    
+    Reference 1: --    
+    Reference 2: --
+        
+
+SHIP DATE
+    Wednesday, December 22, 2010
+
+EXPECTED DELIVERY DATE
+9645875695845785458265
+
+    Friday, December 24, 2010 End of Day
+
+==========================================================
+TRACKING INFORMATION  sd245845845ge
+==========================================================
+To get complete tracking information, click the following link:
+
+http://wwwapps.ups.com/ietracking/tracking.cgi?tracknum=1Z5AR5420307750990
+
+
+NOTE: Tracking information may not be available until several hours
+after the carrier picks up the shipment. Carriers normally pick up
+in the late afternoon. 458154698458
+
+
+=============================================================
+QUESTIONS OR COMMENTS ABOUT STAPLES(R) SHIP CENTER SERVICES?
+=============================================================
+Please contact the facility listed in the SHIPPED THROUGH section above.
+
+If you need to submit a claim on a late, lost or damaged shipment, 
+please contact the Staples Claim Center at 1-800-797-5924.
+
+1Z5AR5420307750991
+
+==========================================================
+DO NOT REPLY DIRECTLY TO THIS E-MAIL 9153645845257586958457
+==========================================================
+
+
+
+156272451672538652461272594262
+
+Tuesday, December 21, 2010 04:12 PM Pacific Standard Time
